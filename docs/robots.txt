@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atd-gestion-pro.github.io/atd-gestion-pro-updates/sitemap.xml
